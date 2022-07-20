@@ -1,5 +1,5 @@
 # clubsite
-
+Mainly using react for this project. Right now most of it are hard coded <br/>
 Based on [this](https://www.figma.com/proto/mPwmGIqylFV2Al63Zff5EG/Club-Website?node-id=4%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A3),
 was made fellow club mate for cs club. 
 #### Still a lot need to implement
